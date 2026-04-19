@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build": "echo Installing... && vite build"
   },
   "dependencies": {
     "cytoscape": "^3.30.2",
